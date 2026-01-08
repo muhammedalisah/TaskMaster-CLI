@@ -11,7 +11,7 @@
 
 ## 🛠️ Kurulum
 
-Projeyi bilgisayarınıza klonlayın ve gerekli kütüphaneleri yükleyin:
+Projeyi bilgisayarınıza klonlayın ve gerekli kütüphaneleri yükleyin: okey
 
 ```bash
 git clone [https://github.com/KULLANICI_ADIN/TaskMaster-CLI.git](https://github.com/KULLANICI_ADIN/TaskMaster-CLI.git)
